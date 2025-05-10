@@ -41,7 +41,10 @@ Power BI (for Data Integration, DAX Measures, and Visual Analysis)
 ---
 ## Dashboard
 ![Overview](Screenshot%20(74).png)
+
+---
 ![DeeperInsights](Screenshot%20(75).png)
+
 ## Key Observations
 - Overall OTIF performance (23.81%) is significantly below the target (65.91%), indicating a major challenge in delivering orders both on time and in full.
 - On-Time % (57.14%) and In-Full % (53.97%) also underperform, far below respective targets.
