@@ -69,21 +69,21 @@ Power BI (for Data Integration, DAX Measures, and Visual Analysis)
 
 ---
 ## Recommendations
-1. Improve OT and IF performance:
+- Improve OT and IF performance:
   - Implement tighter SLAs for warehouse picking and dispatch scheduling.
   - Identify stockout patterns by SKU and strengthen replenishment cycles.
 
-2. Address Root Causes of Poor OTIF:
+- Address Root Causes of Poor OTIF:
   - Audit high-delay customers (e.g., Coolblue, Acclaimed Stores) for recurring issues.
   - Set up alert systems for line-item shortages at the order acceptance stage.
 
-3. Focus on City-wise Optimization:
+- Focus on City-wise Optimization:
   - Launch targeted process improvements in Ahmedabad and Vadodara, which show the weakest OTIF vs goal gap.
 
-4. Leverage Strong VOFR:
+- Leverage Strong VOFR:
   - Since VOFR is robust, develop SKU-level logic to distribute shipment volumes more strategically based on fulfillment likelihood.
 
-5. Data-Driven Capacity Planning:
+- Data-Driven Capacity Planning:
   - Use LIFR data per product (e.g., butter, curd) to prioritize SKU adjustments in planning and supplier coordination.
 
 ---
